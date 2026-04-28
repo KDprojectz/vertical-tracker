@@ -1,4 +1,3 @@
-A free, AI-powered vertical jump tracker that runs entirely in your browser — no app download, no sign-up, no cost.
 
 How to use
 
